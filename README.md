@@ -425,8 +425,6 @@ If you like this project:
 
 # 📬 Contact
 
-GitHub: https://github.com/someshvermagithub
-
 LinkedIn: https://www.linkedin.com/in/someshverma-/
 
-Email: someshverma6009@gmail.com
+
